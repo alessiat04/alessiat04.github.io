@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - Hugo Themes - cherryblossom</title>
+    <link>https://alessiat04.github.io/categories/</link>
+    <description>Recent content in Categories on Hugo Themes - cherryblossom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://alessiat04.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mandorlo</title>
+      <link>https://alessiat04.github.io/categories/mandorlo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/categories/mandorlo/</guid>
+      <description></description>
+    </item><item>
+      <title>papavero</title>
+      <link>https://alessiat04.github.io/categories/papavero/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/categories/papavero/</guid>
+      <description></description>
+    </item><item>
+      <title>bucaneve</title>
+      <link>https://alessiat04.github.io/categories/bucaneve/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/categories/bucaneve/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

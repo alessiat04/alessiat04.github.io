@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fate - Hugo Themes - cherryblossom</title>
+    <link>https://alessiat04.github.io/categories/fate/</link>
+    <description>Recent content in fate on Hugo Themes - cherryblossom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://alessiat04.github.io/categories/fate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La Fata dei Fiori di Mandorlo</title>
+      <link>https://alessiat04.github.io/posts/creating-a-new-theme/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/creating-a-new-theme/</guid>
+      <description>Fata fior di mandorlo è la prima a far capolino, e guida gioiosamente le altre fate in una danza per dare il benvenuto alla primavera.</description>
+    </item><item>
+      <title>La Fata Papavero</title>
+      <link>https://alessiat04.github.io/posts/aether-theme/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/aether-theme/</guid>
+      <description>Papavero è una delle fate più grandi ed adora organizzare festicciole ed altri intrattenimenti per le fate piccoline.</description>
+    </item><item>
+      <title>La Fata Bucaneve</title>
+      <link>https://alessiat04.github.io/posts/migrate-from-jekyll/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/migrate-from-jekyll/</guid>
+      <description>L&#39;incantevole fata bucaneve non ha mai freddo nemmeno quando è scalza.  È una vera fata dell&#39;inverno e della neve.</description>
+    </item>
+  </channel>
+</rss>

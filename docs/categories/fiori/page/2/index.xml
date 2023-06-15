@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiori - Hugo Themes - cherryblossom</title>
+    <link>https://alessiat04.github.io/categories/fiori/</link>
+    <description>Recent content in fiori on Hugo Themes - cherryblossom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://alessiat04.github.io/categories/fiori/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La Fata Iris</title>
+      <link>https://alessiat04.github.io/posts/migrate-from-jekyll-copy/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/migrate-from-jekyll-copy/</guid>
+      <description>Iris ridacchia e gioca vicino all&#39;acqua o alla palude, ama divertirsi in compagnia delle altre fate.</description>
+    </item><item>
+      <title>La Fata Tulipano</title>
+      <link>https://alessiat04.github.io/posts/migrate-from-copy/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/migrate-from-copy/</guid>
+      <description>La fata Tulipano viene da un posto molto lontano chiamato Persia, essa è molto saggia ed ha visto un mucchio di cose.</description>
+    </item><item>
+      <title>La Fata Fragola</title>
+      <link>https://alessiat04.github.io/posts/migrate-from/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/migrate-from/</guid>
+      <description>Fata fragola porta sempre con sé un mucchio delle sue pregiate bacche, organizzando fantastici picnic con tutte le altre fate.</description>
+    </item>
+  </channel>
+</rss>

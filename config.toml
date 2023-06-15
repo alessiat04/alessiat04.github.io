@@ -1,4 +1,5 @@
-baseurl = "https://example.com"
+baseurl = "https://alessiat04.github.io"
+publishDir = "docs"
 title = "Hugo Themes - cherryblossom"
 author = "Joe Hutchinson"
 canonifyurls = true

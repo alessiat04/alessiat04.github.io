@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fragola - Hugo Themes - cherryblossom</title>
+    <link>https://alessiat04.github.io/categories/fragola/</link>
+    <description>Recent content in fragola on Hugo Themes - cherryblossom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://alessiat04.github.io/categories/fragola/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La Fata Fragola</title>
+      <link>https://alessiat04.github.io/posts/migrate-from/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiat04.github.io/posts/migrate-from/</guid>
+      <description>Fata fragola porta sempre con sé un mucchio delle sue pregiate bacche, organizzando fantastici picnic con tutte le altre fate.</description>
+    </item>
+  </channel>
+</rss>
