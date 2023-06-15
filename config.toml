@@ -1,0 +1,16 @@
+baseurl = "https://example.com"
+title = "Hugo Themes - cherryblossom"
+author = "Joe Hutchinson"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+    brand = "cherryblossom"
+    description = "aether Hugo theme for blogs"
+    headshotimg = "img/gatto.jpeg"
+    headshotalt = "Generic grey headshot picture"
+
+[markup]
+  [markup.highlight]
+    style = "igor"
